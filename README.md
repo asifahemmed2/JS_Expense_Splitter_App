@@ -8,6 +8,9 @@ architecture.
 
 ------------------------------------------------------------------------
 
+🔗 **Live Demo:** https://js-expense-splitter.netlify.app/
+
+
 ## 🚀 Features
 
 ### 👥 User Management
